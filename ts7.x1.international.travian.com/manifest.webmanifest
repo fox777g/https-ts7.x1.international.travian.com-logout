@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "Travian: Legends",
+    "short_name": "Travian: Legends",
+    "icons": [
+        {
+            "src": "/img/pwa/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/img/pwa/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        }
+    ],
+    "theme_color": "#F4EFE4",
+    "background_color": "#F4EFE4",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone"
+}
